@@ -1,0 +1,9 @@
+﻿  AulaKLBot.cpp
+C:\Users\Docker\source\repos\AulaKLBot\AulaKLBot\AulaKLBot.cpp(29,20): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\Docker\source\repos\AulaKLBot\AulaKLBot\AulaKLBot.cpp(29,20): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\Docker\source\repos\AulaKLBot\AulaKLBot\AulaKLBot.cpp(56,36): warning C4312: 'type cast': conversion from 'DWORD' to 'PBYTE *' of greater size
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AulaKLBot.vcxproj -> C:\Users\Docker\source\repos\AulaKLBot\x64\Release\AulaKLBot.exe
